@@ -1,1 +1,2 @@
-Objaverse-Mix dataset
+# Objaverse-Mix dataset
+The download link will be released soon. 
